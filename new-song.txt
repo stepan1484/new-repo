@@ -1,2 +1,3 @@
 1 little bug in the code
 
+чистим баги, ставим патчи
